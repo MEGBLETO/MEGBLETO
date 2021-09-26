@@ -1,5 +1,6 @@
 
 
+
   
 
  
@@ -13,5 +14,9 @@
      - 👯 I’m looking for a frontend react dev internship
      - 💬 Ask me about anything
      - 📫 How to reach me: carnelilordwiz@gmail.com
-   
   
+  
+![Carnel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MEGBLETO&show_icons=true&theme=radical)
+
+  
+![](https://komarev.com/ghpvc/?username=MEGBLETO)
