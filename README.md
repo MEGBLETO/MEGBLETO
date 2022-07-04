@@ -10,7 +10,7 @@
 
      - 🔭 I’m currently working on a web app named QuestPapers               
      - 🌱 I’m currently learning Typescript.
-     - 👯 I’m looking for a frontend react dev internship
+     - 👯 I’m currently looking for an apprenticeship as a fullstack web developer.
      - 💬 Ask me about anything
      - 📫 How to reach me: carnelilordwiz@gmail.com
 
