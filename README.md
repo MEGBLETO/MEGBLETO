@@ -9,9 +9,6 @@
     Hi there I'm Carnel MEGBLETO 👋
 
      - 🔭 I’m currently working on a web app named QuestPapers               
-     - 🌱 I’m currently learning Typescript.
-     - 👯 I’m currently looking for an apprenticeship as a fullstack web developer.
-     - 💬 Ask me about anything
      - 📫 How to reach me: carnelilordwiz@gmail.com
 
   
