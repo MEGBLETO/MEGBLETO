@@ -8,7 +8,6 @@
 
     Hi there I'm Carnel MEGBLETO 👋
 
-     - 🔭 I’m currently working on a web app named QuestPapers               
      - 📫 How to reach me: carnelilordwiz@gmail.com
 
   
